@@ -1,0 +1,9 @@
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\bin\Release\WebAPIController.exe.config
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\bin\Release\WebAPIController.exe
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\bin\Release\WebAPIController.pdb
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.Form1.resources
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.Properties.Resources.resources
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.csproj.GenerateResource.Cache
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.exe
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.pdb
+J:\Pavitra\code\VS2013\Projects\WebAPIController\WebAPIController\obj\Release\WebAPIController.csprojResolveAssemblyReference.cache

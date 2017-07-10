@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /root/[LAYERDIRECTORY] 
+rm proconservice.lock
+mono-service2 -l:./proconservice.lock PRoCon.Service.exe

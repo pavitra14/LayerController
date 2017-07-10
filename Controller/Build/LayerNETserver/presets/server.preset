@@ -1,0 +1,11 @@
+/////////////////////////////////////////////
+// This config will be overwritten by procon.
+/////////////////////////////////////////////
+procon.protected.layer.setPrivileges "[LAYERUSER]" 3972679
+procon.protected.layer.enable True [LAYERPORT] "0.0.0.0" "PRoCon[%servername%]"
+procon.protected.playerlist.settings true 2 0,4939024 0,5
+procon.protected.chat.settings False False True 0 0
+procon.protected.events.captures False 200 False
+procon.protected.lists.settings False
+procon.protected.console.settings True True True True True True
+procon.protected.timezone_UTCoffset 0

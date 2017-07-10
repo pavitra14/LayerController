@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /root/[LAYERDIRECTORY] 
+kill `cat ./proconservice.lock
+rm proconservice.lock`

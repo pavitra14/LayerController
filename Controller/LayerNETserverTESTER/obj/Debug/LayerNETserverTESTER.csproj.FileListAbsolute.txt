@@ -1,0 +1,12 @@
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\bin\Debug\LayerNETserverTESTER.exe.config
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\bin\Debug\LayerNETserverTESTER.exe
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\bin\Debug\LayerNETserverTESTER.pdb
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.csprojResolveAssemblyReference.cache
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.Form1.resources
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.Properties.Resources.resources
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.csproj.GenerateResource.Cache
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.exe
+J:\Pavitra\code\VS2013\Workspaces\Controller\LayerNETserverTESTER\obj\Debug\LayerNETserverTESTER.pdb
+J:\Pavitra\code\VS2013\Workspaces\Controller\Build\LayerNETserverTESTER\LayerNETserverTESTER.exe.config
+J:\Pavitra\code\VS2013\Workspaces\Controller\Build\LayerNETserverTESTER\LayerNETserverTESTER.exe
+J:\Pavitra\code\VS2013\Workspaces\Controller\Build\LayerNETserverTESTER\LayerNETserverTESTER.pdb

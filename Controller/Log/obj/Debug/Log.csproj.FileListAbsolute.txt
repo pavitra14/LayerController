@@ -1,0 +1,7 @@
+J:\Pavitra\code\VS2013\Workspaces\Controller\Log\bin\Debug\Log.dll
+J:\Pavitra\code\VS2013\Workspaces\Controller\Log\bin\Debug\Log.pdb
+J:\Pavitra\code\VS2013\Workspaces\Controller\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+J:\Pavitra\code\VS2013\Workspaces\Controller\Log\obj\Debug\Log.dll
+J:\Pavitra\code\VS2013\Workspaces\Controller\Log\obj\Debug\Log.pdb
+J:\Pavitra\code\VS2013\Workspaces\Controller\Build\Log\Log.dll
+J:\Pavitra\code\VS2013\Workspaces\Controller\Build\Log\Log.pdb

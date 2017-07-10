@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "License Maker", "License Maker\License Maker.vbproj", "{44B8820E-C0F9-4333-B5C2-0D16995B2E06}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Controller.class.Hash", "Controller.class.Hash\Controller.class.Hash.vbproj", "{A5AF77A3-4377-4EF4-B4BE-732196CA3B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log", "Log\Log.csproj", "{D6D2E42E-46E7-47B2-A3F2-CBE40C14975D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerNETserver", "IWNetServer\LayerNETserver.csproj", "{837F2285-333D-431D-AE31-348F745A87CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerNETserverTESTER", "LayerNETserverTESTER\LayerNETserverTESTER.csproj", "{FD1947F8-B666-439F-BF2C-4BE9CEF2689E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pavitrabehre.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Controller.class.Hash\\Controller.class.Hash.vbproj
+		SccProjectName1 = Controller.class.Hash
+		SccLocalPath1 = Controller.class.Hash
+		SccProjectUniqueName2 = License\u0020Maker\\License\u0020Maker.vbproj
+		SccProjectName2 = License\u0020Maker
+		SccLocalPath2 = License\u0020Maker
+		SccProjectUniqueName3 = Log\\Log.csproj
+		SccProjectName3 = Log
+		SccLocalPath3 = Log
+		SccProjectUniqueName4 = IWNetServer\\LayerNETserver.csproj
+		SccProjectName4 = IWNetServer
+		SccLocalPath4 = IWNetServer
+		SccProjectUniqueName5 = LayerNETserverTESTER\\LayerNETserverTESTER.csproj
+		SccProjectName5 = LayerNETserverTESTER
+		SccLocalPath5 = LayerNETserverTESTER
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B8820E-C0F9-4333-B5C2-0D16995B2E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B8820E-C0F9-4333-B5C2-0D16995B2E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B8820E-C0F9-4333-B5C2-0D16995B2E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B8820E-C0F9-4333-B5C2-0D16995B2E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AF77A3-4377-4EF4-B4BE-732196CA3B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AF77A3-4377-4EF4-B4BE-732196CA3B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AF77A3-4377-4EF4-B4BE-732196CA3B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AF77A3-4377-4EF4-B4BE-732196CA3B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D2E42E-46E7-47B2-A3F2-CBE40C14975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D2E42E-46E7-47B2-A3F2-CBE40C14975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D2E42E-46E7-47B2-A3F2-CBE40C14975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D2E42E-46E7-47B2-A3F2-CBE40C14975D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837F2285-333D-431D-AE31-348F745A87CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837F2285-333D-431D-AE31-348F745A87CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837F2285-333D-431D-AE31-348F745A87CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837F2285-333D-431D-AE31-348F745A87CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1947F8-B666-439F-BF2C-4BE9CEF2689E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1947F8-B666-439F-BF2C-4BE9CEF2689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1947F8-B666-439F-BF2C-4BE9CEF2689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1947F8-B666-439F-BF2C-4BE9CEF2689E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
